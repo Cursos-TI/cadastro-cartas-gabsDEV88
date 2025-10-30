@@ -33,6 +33,8 @@ int main() {
     printf("Digite o pib: \n");
     scanf("%f", &pib);
 
+    // Área para Saida de dados 
+
     printf("Digite os pontos_turisticos: \n");
     scanf("%d",  &pontos_turisticos);
 
