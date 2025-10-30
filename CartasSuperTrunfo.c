@@ -1,6 +1,5 @@
 #include <stdio.h>
 // desafio 
-i#include <stdio.h>
 
 int main() {
     char cartas[3];
